@@ -1,9 +1,9 @@
 {
-	"owner": ["923474187615@s.whatsapp.net"],
+	"owner": ["601163276045@s.whatsapp.net"],
 	"thumbvideo": "https://telegra.ph/file/a8646b2b1ea9e61e9fe52.jpg",
 	"thumb": "https://telegra.ph/file/a8646b2b1ea9e61e9fe52.jpg",
 	"session": "rzkyfdlh-md.json",
-	"ownername": "AsifKhan",
+	"ownername": "Boboiboy",
 	"self": false,
 	"server": false,
 	"comment_server": "change 'server' with 'true', if you run in replit!",
@@ -11,7 +11,7 @@
 	"packInfo": { "packname": "AsifKhan", "author": "L Ξ X A" },
 	"namebot": "L Ξ X A",
 	"timezone": "Asia/Jakarta",
-	"github": "https://github.com/Dark-Asif",
+	"github": "https://github.com/Mechibot7",
 	"locale": "eng",
 	"ignore": {
 		"directory": ["umum"] 
