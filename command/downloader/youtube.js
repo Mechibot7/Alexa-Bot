@@ -1,5 +1,5 @@
 const yts = require("yt-search"),
-	{ y2mateV, y2mateA } = require("../../lib/y2mate");
+	{ y2mateV, y2mateA } = require("/lib/y2mate");
 const axios = require("axios");
 
  exports.getBuffer = getBuffer = async (url, options) => {
