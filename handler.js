@@ -275,7 +275,7 @@ module.exports = handler = async (m, conn, map) => {
 			}
 		}
   
-   lexa = ['@' + conn.user.id.split(':')[0]]
+   lexa = ['@' + conn.user.id.split(':')[0], "Lexa", "lexa"]
    for ( var L of lexa) {
      if(msg.body.match(L)) {
     const templateButtons = [
