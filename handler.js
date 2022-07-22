@@ -313,7 +313,7 @@ conn.sendMessage(msg.from, templateMessage)
    function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)];
    }
-   yakali = ["❤️", "👍", "😡", "🙂", "😝", "🥺"]
+   yakali = ["❤️", "👍", "😡", "🙂", "😝", "🥺","😂","😭","🤨","😈","🐦","🔪","🥴","😀","😏","🤭"]
    coba = pickRandom(yakali)
    const reactionMessage = {
 			react: {
