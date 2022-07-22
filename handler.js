@@ -283,7 +283,7 @@ module.exports = handler = async (m, conn, map) => {
       ]
       const templateMessage = {
         text: "Hi, Im Lexa WhatsApp Bot",
-        footer: 'Mrfzvx | L Ξ X A',
+        footer: 'Dark-Bot | L Ξ X A',
         templateButtons: templateButtons 
       }
 conn.sendMessage(msg.from, templateMessage)
